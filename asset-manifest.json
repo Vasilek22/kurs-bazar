@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kurs-bazar/static/css/main.34b742ee.css",
+    "main.css": "/kurs-bazar/static/css/main.86b5f27a.css",
     "main.js": "/kurs-bazar/static/js/main.d65648d4.js",
     "static/media/c.png": "/kurs-bazar/static/media/c.c2198f65520eda1f69fe.png",
     "static/media/h.png": "/kurs-bazar/static/media/h.5339352585005e525916.png",
@@ -12,11 +12,11 @@
     "static/media/d.png": "/kurs-bazar/static/media/d.6ad5cd2e8e753b51392c.png",
     "static/media/j.png": "/kurs-bazar/static/media/j.5f1a0c31fb32f2efafb5.png",
     "index.html": "/kurs-bazar/index.html",
-    "main.34b742ee.css.map": "/kurs-bazar/static/css/main.34b742ee.css.map",
+    "main.86b5f27a.css.map": "/kurs-bazar/static/css/main.86b5f27a.css.map",
     "main.d65648d4.js.map": "/kurs-bazar/static/js/main.d65648d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.34b742ee.css",
+    "static/css/main.86b5f27a.css",
     "static/js/main.d65648d4.js"
   ]
 }
