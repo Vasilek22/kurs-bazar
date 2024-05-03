@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kurs-bazar/static/css/main.96cdd056.css",
-    "main.js": "/kurs-bazar/static/js/main.75dadcb9.js",
-    "static/media/c.png": "/kurs-bazar/static/media/c.c2198f65520eda1f69fe.png",
-    "static/media/h.png": "/kurs-bazar/static/media/h.5339352585005e525916.png",
-    "static/media/f.png": "/kurs-bazar/static/media/f.19b6b203273b912b690c.png",
-    "static/media/b.png": "/kurs-bazar/static/media/b.c0af7c2c7d9e81e4a360.png",
-    "static/media/k.png": "/kurs-bazar/static/media/k.4961691f7ffc31fdc690.png",
-    "static/media/i.png": "/kurs-bazar/static/media/i.006814cd59931061e495.png",
-    "static/media/e.png": "/kurs-bazar/static/media/e.4831a7127760b4691bc3.png",
-    "static/media/d.png": "/kurs-bazar/static/media/d.6ad5cd2e8e753b51392c.png",
-    "static/media/j.png": "/kurs-bazar/static/media/j.5f1a0c31fb32f2efafb5.png",
-    "index.html": "/kurs-bazar/index.html",
-    "main.96cdd056.css.map": "/kurs-bazar/static/css/main.96cdd056.css.map",
-    "main.75dadcb9.js.map": "/kurs-bazar/static/js/main.75dadcb9.js.map"
+    "main.css": "/static/css/main.96cdd056.css",
+    "main.js": "/static/js/main.6daa9ff1.js",
+    "static/media/c.png": "/static/media/c.c2198f65520eda1f69fe.png",
+    "static/media/h.png": "/static/media/h.5339352585005e525916.png",
+    "static/media/f.png": "/static/media/f.19b6b203273b912b690c.png",
+    "static/media/b.png": "/static/media/b.c0af7c2c7d9e81e4a360.png",
+    "static/media/k.png": "/static/media/k.4961691f7ffc31fdc690.png",
+    "static/media/i.png": "/static/media/i.006814cd59931061e495.png",
+    "static/media/e.png": "/static/media/e.4831a7127760b4691bc3.png",
+    "static/media/d.png": "/static/media/d.6ad5cd2e8e753b51392c.png",
+    "static/media/j.png": "/static/media/j.5f1a0c31fb32f2efafb5.png",
+    "index.html": "/index.html",
+    "main.96cdd056.css.map": "/static/css/main.96cdd056.css.map",
+    "main.6daa9ff1.js.map": "/static/js/main.6daa9ff1.js.map"
   },
   "entrypoints": [
     "static/css/main.96cdd056.css",
-    "static/js/main.75dadcb9.js"
+    "static/js/main.6daa9ff1.js"
   ]
 }
